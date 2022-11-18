@@ -3,10 +3,6 @@
     {
       "id": "Page1",
       "isDefault": true
-    },
-    {
-      "id": "NewPage",
-      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -15,7 +11,7 @@
   "color": "#F1DEFF",
   "icon": "smartphone",
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "isManualUpdate": false,
   "deleted": false
 }
